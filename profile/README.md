@@ -12,6 +12,7 @@
 * 查看訂單
 * JWT Security
 ## 系統架構
+![](/profile/imgs/CarRent.jpg)
 ## 活動圖
 ![](/profile/imgs/carRentalActivity.jpg)
 ## 安裝與使用
